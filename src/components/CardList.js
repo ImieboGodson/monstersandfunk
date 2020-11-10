@@ -4,9 +4,6 @@ import './CardList.css';
 
 
 const CardList = ({users}) => {
-	if(true){
-		throw new Error('NOOOOOOOO');
-	}
 
 	return !users.length ?
 	(
