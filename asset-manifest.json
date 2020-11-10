@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/monstersandfunk/static/css/main.1bf711f5.chunk.css",
+    "main.js": "/monstersandfunk/static/js/main.6d617dc6.chunk.js",
+    "main.js.map": "/monstersandfunk/static/js/main.6d617dc6.chunk.js.map",
+    "runtime-main.js": "/monstersandfunk/static/js/runtime-main.b923b88a.js",
+    "runtime-main.js.map": "/monstersandfunk/static/js/runtime-main.b923b88a.js.map",
+    "static/css/2.31461e4f.chunk.css": "/monstersandfunk/static/css/2.31461e4f.chunk.css",
+    "static/js/2.64b12c8e.chunk.js": "/monstersandfunk/static/js/2.64b12c8e.chunk.js",
+    "static/js/2.64b12c8e.chunk.js.map": "/monstersandfunk/static/js/2.64b12c8e.chunk.js.map",
+    "static/js/3.13e4e538.chunk.js": "/monstersandfunk/static/js/3.13e4e538.chunk.js",
+    "static/js/3.13e4e538.chunk.js.map": "/monstersandfunk/static/js/3.13e4e538.chunk.js.map",
+    "index.html": "/monstersandfunk/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/monstersandfunk/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.1bf711f5.chunk.css.map": "/monstersandfunk/static/css/main.1bf711f5.chunk.css.map",
+    "static/js/2.64b12c8e.chunk.js.LICENSE.txt": "/monstersandfunk/static/js/2.64b12c8e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/monstersandfunk/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b923b88a.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.64b12c8e.chunk.js",
+    "static/css/main.1bf711f5.chunk.css",
+    "static/js/main.6d617dc6.chunk.js"
+  ]
+}
