@@ -8,7 +8,7 @@ const SearchBox = ({ searchChange, style }) => {
 				className='pa3 ba b--green bg-lightest-blue' 
 				type='search' 
 				placeholder='Search...'
-				onChange={ searchChange }
+				onChange={(event) => searchChange(event)}
 			/>
 		</div>
 	)
